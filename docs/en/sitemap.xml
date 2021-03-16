@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/en/about/</loc>
+    <loc>https://open-hardware-tokyo.github.io/blog-open-hardware-enthusiast-tokyo/en/about/</loc>
     <lastmod>2021-03-11T06:06:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/about/"
+                href="https://open-hardware-tokyo.github.io/blog-open-hardware-enthusiast-tokyo/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/about/"
+                href="https://open-hardware-tokyo.github.io/blog-open-hardware-enthusiast-tokyo/en/about/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/en/contact/</loc>
+    <loc>https://open-hardware-tokyo.github.io/blog-open-hardware-enthusiast-tokyo/en/contact/</loc>
     <lastmod>2017-11-09T14:50:58+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/contact/"
+                href="https://open-hardware-tokyo.github.io/blog-open-hardware-enthusiast-tokyo/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/contact/"
+                href="https://open-hardware-tokyo.github.io/blog-open-hardware-enthusiast-tokyo/en/contact/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/en/</loc>
+    <loc>https://open-hardware-tokyo.github.io/blog-open-hardware-enthusiast-tokyo/en/</loc>
     <lastmod>2017-11-01T18:28:28+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/"
+                href="https://open-hardware-tokyo.github.io/blog-open-hardware-enthusiast-tokyo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/"
+                href="https://open-hardware-tokyo.github.io/blog-open-hardware-enthusiast-tokyo/en/"
                 />
   </url>
   
