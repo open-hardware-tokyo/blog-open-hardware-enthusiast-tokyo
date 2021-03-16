@@ -1,0 +1,33 @@
+baseURL: https://example.com
+defaultContentLanguage: ja
+
+languages:
+  ja:
+    languageName: Japanese
+    # weight: 20
+    # title: 日本むかし話
+  en:
+    languageName: English
+    # weight: 10
+    # title: "Japanese Old Tales"
+
+title: where I am going to
+theme: yourfolio
+disableKinds: [RSS, taxonomy, taxonomyTerm]
+googleAnalytics: UA-XXXXX-Y
+
+# Menu items
+menu:
+  main:
+  - name: About
+    weight: 1
+    url: /about
+  - name: Contact
+    weight: 2
+    url: /contact
+
+# Custom params
+params:
+  env: development
+  logoImage: img/logo.png
+  logoImageAlt: Yourfolio Theme brand logo
